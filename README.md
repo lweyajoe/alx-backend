@@ -1,19 +1,5 @@
 # alx-backend
 
-# Resources
-
-## Read or watch:
-
-1. [REST API Design: Pagination](https://www.moesif.com/blog/technical/api-design/REST-API-Design-Filtering-Sorting-and-Pagination/#pagination)
-2. [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)
-
-## Learning Objectives
-
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
-1. How to paginate a dataset with simple page and page_size parameters
-2. How to paginate a dataset with hypermedia metadata
-3. How to paginate in a deletion-resilient manner
 
 ## Requirements
 * All your files will be interpreted/compiled on Ubuntu 18.04 LTS using ```python3``` (version 3.7)
